@@ -5,7 +5,7 @@ Ethereum protocol developer and smart contract engineer, based in Belgrade. I wo
 - [ethereum/EIPs](https://github.com/ethereum/EIPs/pull/12589): Ethereum Improvement Proposals, added EIP-8457
 - [beacon-APIs](https://github.com/ethereum/beacon-APIs): Ethereum Beacon Node API specification ([7 merged PRs](https://github.com/ethereum/beacon-APIs/pulls?q=is%3Apr+author%3Amarkolazic01+is%3Amerged))
 - [Lodestar](https://github.com/ChainSafe/lodestar): Ethereum consensus client in TypeScript, including the ePBS builder ([40+ merged PRs](https://github.com/ChainSafe/lodestar/pulls?q=is%3Apr+author%3Amarkolazic01+is%3Amerged))
-- [zeam](https://github.com/blockblaz/zeam): Beam chain client in Zig ([6 merged PRs](https://github.com/blockblaz/zeam/pulls?q=is%3Apr+author%3Amarkolazic01+is%3Amerged))
+- [zeam](https://github.com/blockblaz/zeam): Ethereum Lean client in Zig ([6 merged PRs](https://github.com/blockblaz/zeam/pulls?q=is%3Apr+author%3Amarkolazic01+is%3Amerged))
 - [lodestar-z](https://github.com/ChainSafe/lodestar-z): Lodestar components in Zig ([4 merged PRs](https://github.com/ChainSafe/lodestar-z/pulls?q=is%3Apr+author%3Amarkolazic01+is%3Amerged))
 - [js-libp2p](https://github.com/libp2p/js-libp2p/pull/3610): `floodPublish` publish option for gossipsub
 - [eth2-val-tools](https://github.com/protolambda/eth2-val-tools/pull/32): fix to keystore directory writing
