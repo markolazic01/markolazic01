@@ -16,9 +16,12 @@ Ethereum protocol developer and smart contract engineer, based in Belgrade. I wo
 - [Subnet VRF](https://github.com/ava-labs/subnet-vrf): verifiable randomness for Avalanche subnets, built for Ava Labs' AvaCloud and audited by OpenZeppelin
 - [Sei native oracle adapter](https://github.com/dragonswap-app/sei-native-oracle-adapter): Solidity library exposing Sei's native price oracle to EVM contracts
 
-### Publications and talks
+### Talks
 
 - [Building the ePBS Builder in Lodestar](https://www.youtube.com/watch?v=p_1Hqf0B9Nk): talk at Devcon 8, Mumbai
+
+### Publications
+
 - [EIP-8457: Batched KZG Point Evaluation via EIP-2537](https://eips.ethereum.org/EIPS/eip-8457)
 - [The Usage of EIP2098 - Digital Signature Compact Representation](https://medium.com/nima-enterprises/the-usage-of-eip2098-digital-signature-compact-representation-a59cd9369eae)
 
