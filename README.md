@@ -24,5 +24,6 @@ Ethereum protocol developer and smart contract engineer, based in Belgrade. I wo
 
 - [EIP-8457: Batched KZG Point Evaluation via EIP-2537](https://eips.ethereum.org/EIPS/eip-8457)
 - [The Usage of EIP2098 - Digital Signature Compact Representation](https://medium.com/nima-enterprises/the-usage-of-eip2098-digital-signature-compact-representation-a59cd9369eae)
+- [EPF 7 - Final Update](https://hackmd.io/@lqzic/epf-7-final-update)
 
 [LinkedIn](https://www.linkedin.com/in/markolazic01) · [X](https://x.com/1qzic)
